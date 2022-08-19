@@ -48,8 +48,8 @@ k   'abc' * 2                   string                      abcabc
 l   '1'*2 + '2' * 3             string                      11222
 m   1 * 2 + '3' * 2             error                       error
 n   'A' ** 2                    error                       error
-o   'bc' % 2
-p   'bc' / 2
+o   'bc' % 2                    error                       file & is unavaliable
+p   'bc' / 2                    error                       copywright error
 
 Now go to the IDE
 Use the interpreter to evaluate the expressions, write down results in the "Interpreter Result" column.
