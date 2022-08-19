@@ -8,7 +8,7 @@ Practice typing out some statements in the editor part of the IDE, then hit "Run
     Expression                                      Expected Output                               Did anything unexpected happen?
 a)  print("1")                                              1                                                    no
 b)  print(1)                                                1                                                    no
-c)  print(1 + 2)                                            1+2                                                  yes
+c)  print(1 + 2)                                            3                                                    no
 d)  print("1" + "2")                                        12                                                   no
 e)  print("this" + " " + "is" + " " +                this is a scentence
     "a" + " " +
